@@ -1,0 +1,81 @@
+{
+  "chats": [{
+    "title": "Slon Maksim"
+  },{
+    "title": "Bren Hilon"
+  },{
+    "title": "Clob Fill"
+  },{
+    "title": "Slon Inna"
+  },{
+    "title": "Bren Hilon"
+  },{
+    "title": "Clob Fill"
+  },{
+    "title": "Slon Inna"
+  },{
+    "title": "Bren Hilon"
+  },{
+    "title": "Clob Fill"
+  },{
+    "title": "Slon Inna"
+  }],
+
+  "messages": [{
+    "sender": "someone",
+    "content": "Hello!!!"
+    },{
+      "sender": "someone",
+      "content": "Here's my very first message..."
+    },
+    {
+      "sender": "me",
+      "content": "Hi"
+    },{
+      "sender": "me",
+      "content": "What's up?"
+    },{
+      "sender": "someone",
+      "content": "Here's my very first message..."
+    },
+    {
+      "sender": "me",
+      "content": "Hi"
+    },{
+      "sender": "me",
+      "content": "What's up?"
+    },{
+      "sender": "someone",
+      "content": "Here's my very first message..."
+    },
+    {
+      "sender": "me",
+      "content": "Hi"
+    },{
+      "sender": "me",
+      "content": "What's up?"
+    },{
+      "sender": "someone",
+      "content": "Here's my very first message..."
+    },
+    {
+      "sender": "me",
+      "content": "Hi"
+    },{
+      "sender": "me",
+      "content": "What's up?"
+    },{
+      "sender": "someone",
+      "content": "Here's my very first message..."
+    },
+    {
+      "sender": "me",
+      "content": "Hi"
+    },{
+      "sender": "me",
+      "content": "What's up?"
+    }
+  ]
+}
+
+ 
